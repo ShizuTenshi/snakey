@@ -32,6 +32,11 @@ public class Snake {
             // Set the new direction, preventing immediate reversal
         }
 
-        // Additional methods for handling power-ups, scoring, etc.
+    public BodyPart[] getBody() {
+            return null;
+
+    }
+
+    // Additional methods for handling power-ups, scoring, etc.
 
 }
