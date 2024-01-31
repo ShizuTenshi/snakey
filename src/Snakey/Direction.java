@@ -1,4 +1,4 @@
-package snakey;
+package Snakey;
 
 public enum Direction {
     UP, DOWN, LEFT, RIGHT;

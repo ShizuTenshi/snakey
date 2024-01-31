@@ -1,4 +1,4 @@
-package snakey;
+package Snakey;
 
 public class BodyPart {
     private int x;  // x-coordinate

@@ -1,4 +1,4 @@
-package snakey;
+package Snakey;
 import java.util.LinkedList;
 public class Snake {
     private LinkedList<BodyPart> body;
