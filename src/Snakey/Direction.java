@@ -1,7 +1,7 @@
 package Snakey;
 
 public enum Direction {
-    UP, DOWN, LEFT, RIGHT;
+    UP, DOWN, LEFT, RIGHT, STOP;
 
     public boolean isOpposite(Direction other) {
         return this == UP && other == DOWN ||
